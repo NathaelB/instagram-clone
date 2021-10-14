@@ -1,4 +1,10 @@
 {
+  "name": "instagram-clone",
+  "version": "0.1.0",
+  "author": {
+    "name": "Nathael Bonnal",
+    "email": "pro.nathaelbonnal@gmail.com"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -11,6 +17,8 @@
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
+    "@tailwindcss/forms": "^0.3.4",
+    "@types/react": "^17.0.30",
     "autoprefixer": "^10.2.6",
     "postcss": "^8.3.5",
     "tailwindcss": "^2.2.4"
