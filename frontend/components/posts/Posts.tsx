@@ -3,7 +3,7 @@ import Post from './Post'
 const posts = [
   {
     id: '123',
-    username: 'nathael',
+    username: 'Sportek',
     userImg: 'https://cdn.discordapp.com/attachments/692761277055107172/898559403622551622/IMG_7249-min.jpeg',
     img: 'https://cdn.discordapp.com/attachments/692761277055107172/898559403622551622/IMG_7249-min.jpeg',
     caption: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut egestas aliquam purus, eu tristique justo condimentum id. Proin auctor nulla a ex maximus consequat. Suspendisse interdum nisl non iaculis convallis. Aliquam eget purus ac nunc lacinia efficitur a sed velit. Nunc pharetra pellentesque mauris. Praesent neque ipsum, venenatis vel est sed, ultricies iaculis leo. Duis posuere velit nec molestie consectetur. Cras arcu augue, laoreet vel pharetra sit amet, rhoncus at lectus.\n' +
