@@ -1,6 +1,7 @@
 import Stories from './stories/Stories'
 import Posts from './posts/Posts'
 import MiniProfile from './MiniProfile'
+import Suggestions from './Suggestions'
 
 
 function Feed () {
@@ -15,8 +16,9 @@ function Feed () {
         {/* Posts */}
 
       {/* Section */}
-      <section className="sticky top-0">
+      <section className="sticky">
         <MiniProfile />
+        <Suggestions />
       </section>
         {/* Mini Profil */}
         {/* Suggestions */}

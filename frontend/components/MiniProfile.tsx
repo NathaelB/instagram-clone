@@ -1,7 +1,7 @@
 
 export default function MiniProfile () {
   return (
-    <div className="flex items-center justify-between mt-14 ml-10">
+    <div className="flex items-center justify-between mt-14 ml-10 border-b pb-4">
       <img
         className="rounded-full border p-[2px] h-14 w-14 object-cover mr-2"
         alt=""
